@@ -7,6 +7,8 @@ export default {
     extend: {
       colors: {
         primary: '#37B88D', // Define your custom color
+        secondary: '#000216',
+        tableHeader: '#F8FAFC',
       },
     },
   },
